@@ -35,7 +35,7 @@ let ID = 0
 let jogadores = 0
 radio.setGroup(53)
 jogadores = 9
-ID = 1
+ID = 3
 basic.showNumber(ID)
 if (ID == 1) {
     ter_batata = true
