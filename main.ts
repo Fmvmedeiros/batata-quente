@@ -26,9 +26,6 @@ input.onGesture(Gesture.Shake, function () {
         }
     }
 })
-input.onButtonPressed(Button.B, function () {
-    radio.sendNumber(destino)
-})
 let destino = 0
 let ter_batata = false
 let ID = 0
